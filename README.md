@@ -37,6 +37,6 @@ First 20 tests are free.
 Mautic requires a few cron jobs to handle some maintenance tasks. 
 This bundle add new buttons execute single cron job:
 
-Segment rebuild
-Campaign rebuild/trigger
-Send broadcast
+- Segment rebuild
+- Campaign rebuild/trigger
+- Send broadcast
