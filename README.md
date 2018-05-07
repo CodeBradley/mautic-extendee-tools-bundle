@@ -1,6 +1,7 @@
 # MauticExtendeeToolsBundle
 
 Extension for Mautic from Extendee family www.extendee.com
+Translations and improvements are welcome as pull requests.
 
 ## Installation
 
