@@ -16,7 +16,7 @@ composer require kuzmany/mautic-extendee-tools-bundle
 
 ## Docs
 
-https://tools.mtcextendee.com/
+https://docs.mtcextendee.com/
 
 ## Mail Tester
 
