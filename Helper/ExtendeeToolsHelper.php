@@ -44,10 +44,9 @@ class ExtendeeToolsHelper
      */
     private function getConsolePath()
     {
-        $featureSettings = $this->integrationHelper->getIntegrationObject('ECronTester')->getIntegrationSettings(
-        )->getFeatureSettings();
-        if (!empty($featureSettings['pathToMauticConsole'])) {
-            return $featureSettings['pathToMauticConsole'];
+        $keys = $this->integrationHelper->getIntegrationObject('ECronTester')->getKeys();
+        if (!empty($keys['pathToMauticConsole'])) {
+            return $keys['pathToMauticConsole'];
         }
 
         return $this->getDefaultConsolePath();
