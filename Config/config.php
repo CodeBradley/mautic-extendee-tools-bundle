@@ -3,8 +3,8 @@
 return [
     'name'        => 'MauticExtendeeToolsBundle',
     'description' => 'Extend your Mautic with awesome features',
-    'author'      => 'kuzmany.biz',
-    'version'     => '1.0.0',
+    'author'      => 'mtcextendee.com',
+    'version'     => '1.0.1',
     'routes'      => [
         'main' => [
             'mautic_plugin_extendee' => [
