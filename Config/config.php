@@ -39,14 +39,5 @@ return [
                 ],
             ],
         ],
-        'forms'=>[
-            'mautic.plugin.extendee.form.type.send_example' => [
-                'class' => \MauticPlugin\MauticExtendeeToolsBundle\Form\Type\SendContactsExampleToEmailType::class,
-                'arguments' => [
-                    'mautic.helper.user',
-                ],
-                'alias' => 'send_contacts_example_to_email',
-            ],
-        ]
     ],
 ];
