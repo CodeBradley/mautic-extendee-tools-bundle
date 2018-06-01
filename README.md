@@ -6,7 +6,7 @@ Translations and improvements are welcome as pull requests.
 ## Installation
 
 1. Install by running 
-composer require kuzmany/mautic-extendee-tools-bundle
+`composer require kuzmany/mautic-extendee-tools-bundle`
 
 2. Go to Mautic - Plugins and click to the button Install/Upgrade plugins
 
