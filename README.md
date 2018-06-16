@@ -1,43 +1,34 @@
-# MauticExtendeeToolsBundle
 
-Extension for Mautic from Extendee family www.extendee.com
-Translations and improvements are welcome as pull requests.
+## Extendee Tools Bundle
 
-## Installation
+Excelent tools to use to make work with Mautic faster.  
+One bundle, but bunch of solutions.  
 
-1. Install by running 
-`composer require kuzmany/mautic-extendee-tools-bundle`
+Cron Tester
 
-2. Go to Mautic - Plugins and click to the button Install/Upgrade plugins
-
-3. See new integrations 
--- ECronTester
--- EMailTester
-
-## Docs
-
-https://docs.mtcextendee.com/
-
-## Mail Tester
-
-![image](https://user-images.githubusercontent.com/462477/39597632-5c9839aa-4f16-11e8-9fd6-d75c7266eec0.png)
-
-Mautic email spam test by mail-tester.com. 
-First 20 tests are free. 
-
-#### How to setup Mail Tester?
-
-1. Just create your account at www.mail-tester.com/manager and setup EMailTester integration
-2. Then go to Mautic and see new Spam email test button in email detail
-3. Button open new window and redirect to mail-tester result page within few seconds
-
-## Cron Tester
-
-![image](https://user-images.githubusercontent.com/462477/39597689-7e16402c-4f16-11e8-8c72-1e696ddb5e16.png)
-
-Mautic requires a few cron jobs to handle some maintenance tasks. 
+Mautic requires a few cron jobs to handle some maintenance tasks.  
 This bundle add new buttons execute single cron job:
 
-- Segment rebuild
-- Campaign rebuild/trigger
-- Send broadcast
+**Segment rebuild**  
+**Campaign rebuild/trigger**  
+**Send broadcast**
+
+[![Segment rebuild](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc_original.jpg?v13024233387251)
+[![Campaign rebuild/trigger](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136_original.jpg?v13024233387251)
+-   [![Broadcast send](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61_original.jpg?v13024233387251)
+
+----------
+
+Mail Tester
+
+Mautic email spam test by  [mail-tester.com](https://mail-tester.com/). First 20 tests are free.  
+  
+How to setup?  
+  
+1. Just create your account at  [www.mail-tester.com/manager](https://www.mail-tester.com/manager)  and setup EMailTester integration  
+2. Then go to Mautic and see new Spam email test button in email detail  
+3. Button open new window and redirect to mail-tester result page within few seconds
+
+[![Untitled](https://docs.mtcextendee.com/assets/images/gallery01/59ac37d4.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery01/59ac37d4_original.jpg?v13024233387251)
+[![Untitled](https://docs.mtcextendee.com/assets/images/gallery01/20729cae.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery01/20729cae_original.jpg?v13024233387251)
+[![Untitled](https://docs.mtcextendee.com/assets/images/gallery01/e1666f98.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery01/e1666f98_original.jpg?v13024233387251)
