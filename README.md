@@ -1,10 +1,10 @@
 
-## Extendee Tools Bundle
+# Extendee Tools Bundle
 
 Excelent tools to use to make work with Mautic faster.  
 One bundle, but bunch of solutions.  
 
-Cron Tester
+## Cron Tester
 
 Mautic requires a few cron jobs to handle some maintenance tasks.  
 This bundle add new buttons execute single cron job:
@@ -19,7 +19,7 @@ This bundle add new buttons execute single cron job:
 
 ----------
 
-Mail Tester
+## Mail Tester
 
 Mautic email spam test by  [mail-tester.com](https://mail-tester.com/). First 20 tests are free.  
   
