@@ -15,7 +15,7 @@ This bundle add new buttons execute single cron job:
 
 [![Segment rebuild](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc_original.jpg?v13024233387251)
 [![Campaign rebuild/trigger](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136_original.jpg?v13024233387251)
--   [![Broadcast send](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61_original.jpg?v13024233387251)
+[![Broadcast send](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61_original.jpg?v13024233387251)
 
 ----------
 
