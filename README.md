@@ -4,6 +4,11 @@
 Excelent tools to use to make work with Mautic faster.  
 One bundle, but bunch of solutions.  
 
+#### Support our projects
+
+- Extensions family for Mautic https://mtcextendee.com/
+- Recommendations engine for Mautic https://mtcrecombee.com/
+
 ## Cron Tester
 
 Mautic requires a few cron jobs to handle some maintenance tasks.  
