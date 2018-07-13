@@ -18,6 +18,12 @@ This bundle add new buttons execute single cron job:
 **Campaign rebuild/trigger**  
 **Send broadcast**
 
+Video:
+
+[![Cancel Save changes How to run crons from Mautic by Mautic Extendee Tools Bundle](http://img.youtube.com/vi/6MXfJjhB_tI/0.jpg)](http://www.youtube.com/watch?v=6MXfJjhB_tI "Cancel Save changes How to run crons from Mautic by Mautic Extendee Tools Bundle")
+
+Screenshots:
+
 [![Segment rebuild](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/20658ddc_original.jpg?v13024233387251)
 [![Campaign rebuild/trigger](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/b07e7136_original.jpg?v13024233387251)
 [![Broadcast send](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61.jpg?v13024233387251)](https://docs.mtcextendee.com/assets/images/gallery02/78a0cf61_original.jpg?v13024233387251)
